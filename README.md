@@ -1,2 +1,1 @@
-# test
-git test for ubuntu
+simple digital assistant app by python
